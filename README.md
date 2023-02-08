@@ -1,1 +1,1 @@
-I'm shit at python 
+I'm bad at python
